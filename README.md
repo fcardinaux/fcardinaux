@@ -7,3 +7,5 @@
   in Erlang.
 - **[chess-move-generator.js](https://github.com/fcardinaux/chess-move-generator.js)**
   — a chess move generator in JavaScript, for Node.js and the browser.
+
+All three are also in my [Chess list](https://github.com/stars/fcardinaux/lists/chess).
